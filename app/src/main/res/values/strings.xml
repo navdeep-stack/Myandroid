@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Android</string>
+    <string name="demoText">This is demo text</string>
+    <string name="buttonText">Demo</string>
+    <string name="edt_hint">Enter Celsius</string>
+    <string name="this_is_demo_text">This is demo text</string>
+    <string name="demo">Demo</string>
+    <string name="this_is_second_activity">This is second activity</string>
+
+
+</resources>
